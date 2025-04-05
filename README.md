@@ -2,7 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Welcome%20to%20My%20Github😃&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
+    <h2 style="
+  border-bottom: 1px solid #d8dee4; 
+  background: linear-gradient(to right, #4facfe, #00f2fe); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  color: #282d33;
+">
+  About Me
+</h2>
+ 
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
   <p style="text-indent: 20px; margin: 0;">🙋🏻‍♂️ I aspire to become an iOS developer in South Korea!</p>
   <p style="text-indent: 20px; margin: 0;">🎓 I studied software at Sunrin Internet High School and Soongsil University.</p>
