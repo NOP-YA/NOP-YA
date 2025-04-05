@@ -22,8 +22,28 @@
           <br/></div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=NOP-YA&bg_color=180,00000000,00000000&title_color=0033ff&text_color=0033ff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOP-YA&layout=compact&bg_color=180,00000000,00000000&title_color=0033ff&text_color=0033ff"
-           /> </div> 
-    </div>
+<h2 style="
+  border-bottom: 1px solid #d8dee4;
+  background: linear-gradient(to right, #3a8dde, #6bc1ff, #a3e0ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+">
+  🏅 Stats
+</h2>
+<div style="text-align: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NOP-YA&bg_color=00000000&title_color=3a8dde&text_color=3a8dde" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOP-YA&layout=compact&bg_color=00000000&title_color=3a8dde&text_color=3a8dde" 
+    alt="Top Languages"
+  />
+</div>
+
     
