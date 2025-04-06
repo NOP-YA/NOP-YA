@@ -44,6 +44,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOP-YA&layout=compact&bg_color=00000000&title_color=3a8dde&text_color=3a8dde" 
     alt="Top Languages"
   />
+  <br/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=mokilord12" alt="solved.ac tier"/>
 </div>
 
     
