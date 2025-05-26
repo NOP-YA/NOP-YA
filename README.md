@@ -1,7 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Welcome%20to%20My%20Github😃&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
     <h2 style=" border-bottom: 1px solid #d8dee4; background: linear-gradient(to right, #3a8dde, #6bc1ff, #a3e0ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;font-weight: bold;">
       About Me </h2>
 
